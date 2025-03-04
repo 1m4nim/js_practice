@@ -18,4 +18,5 @@ https://1m4nim.github.io/js_practice/
 
 ## 何を作ったか
 ‐ 今回のJavaScriptのイベントである、要素.classList.add('クラス名')を用いた
+
 ‐ じわじわとフェードアウトしていく画像の下に本当の見せたい画像を置けた
