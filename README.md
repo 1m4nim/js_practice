@@ -8,7 +8,7 @@ https://1m4nim.github.io/js_practice/
 ![20250304_144955](https://github.com/user-attachments/assets/c6ed2a98-7a98-49dc-a87f-13b062252841)
 
 ## 目的
-画面がゆっくりと遷移していくおしゃれなWebサイトを見つけて、試したくなったため
+画面がゆっくりと遷移していくおしゃれなWebサイトを見つけて、試したくなったため。次に述べるがイベントへの苦手意識を克服するため。
 
 ## 技術
 JavaScriptとHTML＆CSSを用いた。イベントに苦手意識があるのでそれを克服すべく試してみた。
